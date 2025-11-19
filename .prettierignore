@@ -1,0 +1,6 @@
+# Ignore minified files
+*.min.js
+*.min.css
+
+# Ignore specific problematic files if needed
+index.html
